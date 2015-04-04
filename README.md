@@ -7,12 +7,12 @@ A newbie's tale by Eleonore Mayola
 
 References:
 
-* [Leiningen](http://leiningen.org)
-* [4 clojure](http://4clojure.com)
-* [Clojure Koans](http://clojurekoans.com)
-* [Clojurescript Koans](http://clojurescriptkoans.com)
-* [Clojure katas](http://github.com/gigasquid/wonderland-clojure-katas)
-* [ClojureBridge](http://clojurebridge.org)
+1. [Leiningen](http://leiningen.org)
+2. [4 clojure](http://4clojure.com)
+3. [Clojure Koans](http://clojurekoans.com)
+4. [Clojurescript Koans](http://clojurescriptkoans.com)
+5. [Clojure katas](http://github.com/gigasquid/wonderland-clojure-katas)
+6. [ClojureBridge](http://clojurebridge.org)
 
 
 Other resources:
@@ -31,6 +31,7 @@ Learning the language and concepts:
 * [Programming to abstractions](http://www.braveclojure.com/core-functions-in-depth/#1__Programming_to_Abstractions)
 * [Destructuring](http://blog.jayfields.com/2010/07/clojure-destructuring.html)
 * [Lazy sequences](http://www.braveclojure.com/core-functions-in-depth/#2_3__Lazy_Seqs)
+* [On concurrency and parallel programming](http://www.braveclojure.com/concurrency/)
 * [ClojureScript: Clojure to JS](https://github.com/clojure/clojurescript)
 
 
