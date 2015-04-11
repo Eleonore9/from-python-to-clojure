@@ -40,9 +40,7 @@ def countries_affected(data):
 
 if __name__ == "__main__":
     disaster_data_2014 = process_csv('data.csv')
-    #print len(disaster_data_2014)
     total_affected = countries_affected(disaster_data_2014)
-    print '%d countries were affected by disasters in 2014' % len(total_affected)
     for r in total_affected:
-        #print '%s was affected by a %s disaster' %(r.get('affected country'), r.get('type disaster'))
+        print '%s was affected by a %s disaster' %(r.get('affected country'), r.get('type disaster'))
     
