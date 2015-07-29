@@ -27,6 +27,7 @@ Other resources:
 CLOJURE:
 
 Learning the language and concepts:
+* [ClojureBridge docs](http://clojurebridge.github.io/community-docs/index.html)
 * [Clojure for the Brave and True](http://www.braveclojure.com)
 * [Programming to abstractions](http://www.braveclojure.com/core-functions-in-depth/#1__Programming_to_Abstractions)
 * [Destructuring](http://blog.jayfields.com/2010/07/clojure-destructuring.html)
@@ -46,6 +47,10 @@ Other text editors:
 * [LightTable](http://lighttable.com/)
 * [Cursive](https://cursiveclojure.com/)
 * [NightCode](https://sekao.net/nightcode/)
+Notebooks:
+* [Gorilla repl](http://gorilla-repl.org/index.html)
+* [Jupyter Clojure kernel](https://github.com/roryk/ipython-clojure)
+* [Beaker notebook](http://beakernotebook.com/index)
 
 FUNCTIONAL PROGRAMMING IN PYTHON:
 
