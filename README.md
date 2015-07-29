@@ -5,7 +5,7 @@ A newbie's tale by Eleonore Mayola
 -------
 
 
-References:
+###References:
 
 1. [Leiningen](http://leiningen.org)
 2. [4 clojure](http://4clojure.com)
@@ -15,7 +15,7 @@ References:
 6. [ClojureBridge](http://clojurebridge.org)
 
 
-Other resources:
+###Other resources:
 
 * [Clojure docs](http://clojuredocs.org)
 * [More on Java](http://www.flyingmachinestudios.com/programming/how-clojure-babies-are-made-the-java-cycle/)
@@ -24,9 +24,9 @@ Other resources:
 * [Python to Clojure](http://zachcp.org/blog/2015/python-to-clojure/)
 
 
-CLOJURE:
+###CLOJURE:
 
-Learning the language and concepts:
+####Learning the language and concepts:
 * [ClojureBridge docs](http://clojurebridge.github.io/community-docs/index.html)
 * [Clojure for the Brave and True](http://www.braveclojure.com)
 * [Programming to abstractions](http://www.braveclojure.com/core-functions-in-depth/#1__Programming_to_Abstractions)
@@ -36,23 +36,27 @@ Learning the language and concepts:
 * [ClojureScript: Clojure to JS](https://github.com/clojure/clojurescript)
 
 
-Tools and libraries:
+####Tools and libraries:
 * [Clojure toolbox](http://www.clojure-toolbox.com/)
-EMACS related:
+
+####EMACS related:
 * [Emacs Clojure Mode](https://github.com/clojure-emacs/clojure-mode)
 * [Emacs CIDER repl](https://github.com/clojure-emacs/cider)
 * [HTML with Clojure: Hiccup](https://github.com/weavejester/hiccup)
-Other text editors:
+
+####Other text editors:
 * [Clojure in Vim](http://www.neo.com/2014/02/25/getting-started-with-clojure-in-vim)
 * [LightTable](http://lighttable.com/)
 * [Cursive](https://cursiveclojure.com/)
 * [NightCode](https://sekao.net/nightcode/)
-Notebooks:
+
+####Notebooks:
 * [Gorilla repl](http://gorilla-repl.org/index.html)
 * [Jupyter Clojure kernel](https://github.com/roryk/ipython-clojure)
 * [Beaker notebook](http://beakernotebook.com/index)
 
-FUNCTIONAL PROGRAMMING IN PYTHON:
+
+###FUNCTIONAL PROGRAMMING IN PYTHON:
 
 * [Functional programming HOWTO (Python 2)](https://docs.python.org/2/howto/functional.html)
 * [Python practice book](http://anandology.com/python-practice-book/functional-programming.html)
