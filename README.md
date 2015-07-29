@@ -1,11 +1,12 @@
 FROM PYTHON TO CLOJURE
 =======
 
-A newbie's tale by Eleonore Mayola
+Resources + tools for pythonistas interested in Clojure
 -------
 
+###REFS FROM THE POSTER:
 
-###References:
+####References:
 
 1. [Leiningen](http://leiningen.org)
 2. [4 clojure](http://4clojure.com)
@@ -15,7 +16,7 @@ A newbie's tale by Eleonore Mayola
 6. [ClojureBridge](http://clojurebridge.org)
 
 
-###Other resources:
+####Other resources:
 
 * [Clojure docs](http://clojuredocs.org)
 * [More on Java](http://www.flyingmachinestudios.com/programming/how-clojure-babies-are-made-the-java-cycle/)
