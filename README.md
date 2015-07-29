@@ -1,10 +1,10 @@
 FROM PYTHON TO CLOJURE
 =======
 
-Resources + tools for pythonistas interested in Clojure
+Resources + tools for pythonistas interested in Clojure and FP
 -------
 
-###REFS FROM THE POSTER:
+###Refs from the poster
 
 ####References:
 
@@ -25,7 +25,7 @@ Resources + tools for pythonistas interested in Clojure
 * [Python to Clojure](http://zachcp.org/blog/2015/python-to-clojure/)
 
 
-###CLOJURE:
+###CLOJURE
 
 ####Learning the language and concepts:
 * [ClojureBridge docs](http://clojurebridge.github.io/community-docs/index.html)
@@ -57,10 +57,16 @@ Resources + tools for pythonistas interested in Clojure
 * [Beaker notebook](http://beakernotebook.com/index)
 
 
-###FUNCTIONAL PROGRAMMING IN PYTHON:
+###PYTHON
 
-* [Functional programming HOWTO (Python 2)](https://docs.python.org/2/howto/functional.html)
+####Functional programming in Python:
+* [Functional programming HOWTO (Python 2)](http://docs.python.org/2/howto/functional.html)
 * [Python practice book](http://anandology.com/python-practice-book/functional-programming.html)
-* [Python functional tutorial](https://thenewcircle.com/static/bookshelf/python_fundamentals_tutorial/functional_programming.html)
-* [Functional programming modules (Python 3)](https://docs.python.org/3/library/functional.html)
+* [Python functional tutorial](http://thenewcircle.com/static/bookshelf/python_fundamentals_tutorial/functional_programming.html)
+* [Functional programming modules (Python 3)](http://docs.python.org/3/library/functional.html)
 * [Fn.py: library with extra FP capabilities](https://github.com/kachayev/fn.py)
+* [Pyrsistent: immutable data structures](http://pypi.python.org/pypi/pyrsistent/)
+
+####Hy: Lisp-like Python dialect (with a cute mascot)
+* [Hy's docs](http://docs.hylang.org/en/latest/)
+* [Jupyter Hy kernel](https://github.com/bollwyvl/hy_kernel/)
