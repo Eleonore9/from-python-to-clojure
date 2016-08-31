@@ -28,6 +28,7 @@ Resources + tools for pythonistas interested in Clojure and FP
 ###CLOJURE
 
 ####Learning the language and concepts:
+* [The beauty of Clojure](http://owenrh.me.uk/blog/2015/08/24/)
 * [ClojureBridge docs](http://clojurebridge.github.io/community-docs/index.html)
 * [Clojure for the Brave and True](http://www.braveclojure.com)
 * [Programming to abstractions](http://www.braveclojure.com/core-functions-in-depth/#1__Programming_to_Abstractions)
